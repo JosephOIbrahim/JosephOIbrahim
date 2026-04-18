@@ -16,7 +16,7 @@ Three patents pending: USD cognitive state, digital context injection, and Cosmo
 
 ### Research
 
-*Persistent State Hypothesis* — parent thesis for the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. Zenodo DOI.
+*Persistent State Hypothesis* — parent thesis for the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. [DOI: 10.5281/zenodo.18332346](https://doi.org/10.5281/zenodo.18332346).
 
 *USD Cognitive Substrate* — applying USD composition semantics to cognitive state storage. arXiv preprint.
 
