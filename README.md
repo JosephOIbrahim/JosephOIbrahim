@@ -1,6 +1,6 @@
 <h1 align="center">Joseph Ibrahim</h1>
 
-<p align="center"><em>Creative technologist. Local-first AI for VFX.</em></p>
+<p align="center"><em>VFX TD | AI Inventor.</em></p>
 
 <p align="center"><sub><strong>THREE PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX &nbsp;·&nbsp; MPC &nbsp;·&nbsp; FRAMESTORE &nbsp;·&nbsp; THE MILL &nbsp;·&nbsp; APPLE &nbsp;·&nbsp; ZOIC</strong></sub></p>
 
