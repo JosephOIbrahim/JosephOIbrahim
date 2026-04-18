@@ -83,10 +83,6 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-<p align="center"><em></em></p>
-
----
-
 ## Support this work
 
 Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
