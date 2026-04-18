@@ -16,19 +16,23 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 ### [Comfy-Cozy](https://github.com/JosephOIbrahim/Comfy-Cozy)
 
 **AI co-pilot for ComfyUI.** 113 tools. Autonomous pipelines with vision-based evaluation and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction — Claude, GPT-4o, Gemini, Ollama. Patent-pending architecture.
 
 </td>
+<td valign="top" width="50%">
+
+### [Slit-Flap](https://github.com/JosephOIbrahim/Slit-Flap)
+
+Project manager in the shape of a train-station split-flap departure board. One command, browser opens, projects flip into place. Opinionated about what to work on next; notices when you've been at it too long.
+
+<sub><strong>BROWSER-BASED &nbsp;·&nbsp; SPLIT-FLAP UI &nbsp;·&nbsp; OPINIONATED</strong></sub>
+
+</td>
 </tr>
-</table>
-
-<br/>
-
-<table>
 <tr>
 <td valign="top" width="50%">
 
