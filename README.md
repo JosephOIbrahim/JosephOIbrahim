@@ -2,7 +2,7 @@
 
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
-<p align="center"><em>Building the tools I wished existed on the floor at 2am.</em></p>
+<p align="center"><em>Builiding stuff that makes stuff easier.</em></p>
 
 <p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX</strong></sub></p>
 
