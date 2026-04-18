@@ -14,9 +14,17 @@
 
 ## On the slate
 
+<table>
+<tr>
+<td valign="top">
+
 ### [Comfy-Cozy](https://github.com/JosephOIbrahim/Comfy-Cozy)
 
 **AI co-pilot for ComfyUI.** 113 tools. Autonomous pipelines with vision-based evaluation and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction — Claude, GPT-4o, Gemini, Ollama. Patent-pending architecture.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
