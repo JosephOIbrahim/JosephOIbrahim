@@ -1,5 +1,7 @@
 ## On the slate
 
+VFX TD | AI Inventor. Building tools that take the friction out of creative work. 5 patents pending. Sixteen yrs VFX.
+
 <table>
 <tr>
 <td valign="top" width="50%">
