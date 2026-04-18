@@ -2,7 +2,7 @@
 
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
-<p align="center"><sub><strong>THREE PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX &nbsp;·&nbsp; </strong></sub></p>
+<p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX &nbsp;·&nbsp; </strong></sub></p>
 
 <p align="center">
 <a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
