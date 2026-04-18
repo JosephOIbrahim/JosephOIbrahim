@@ -1,7 +1,3 @@
-
-
-## On the slate
-
 <table>
 <tr>
 <td valign="top" width="50%">
