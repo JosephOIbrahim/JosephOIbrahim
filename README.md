@@ -1,4 +1,4 @@
-<p align="center"><em>VFX TD | AI Inventor.</em></p>
+<h1 align="center"><em>VFX TD | AI Inventor.</em></h1>
 
 <p align="center"><em>Building tools that take the friction out of creative work.</em></p>
 
@@ -22,7 +22,7 @@
 
 <sub><strong>PATENT-PENDING ARCHITECTURE &nbsp;·&nbsp; OPEN SOURCE &nbsp;·&nbsp; FOR VFX ARTISTS</strong></sub>
 
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
 
 </td>
 <td valign="top" width="50%">
@@ -33,7 +33,7 @@ Project manager in the shape of a train-station split-flap departure board. One 
 
 <sub><strong>BROWSER-BASED &nbsp;·&nbsp; SPLIT-FLAP UI &nbsp;·&nbsp; OPINIONATED</strong></sub>
 
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Slit-Flap?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Slit-Flap?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Slit-Flap?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Slit-Flap?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ Biologically-architected cognitive memory. Rust hot path plus Python orchestrati
 
 <sub><strong>v3.3.1 PRODUCTION &nbsp;·&nbsp; 1,181 TESTS &nbsp;·&nbsp; 5 SPRINTS SHIPPED</strong></sub>
 
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Harlo?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Harlo?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Harlo?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Harlo?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
 
 </td>
 <td valign="top" width="50%">
@@ -62,7 +62,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 <sub><strong>MCP PROTOCOL &nbsp;·&nbsp; HOUDINI-NATIVE</strong></sub>
 
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Synapse?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Synapse?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Synapse?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Synapse?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
 
 </td>
 </tr>
@@ -103,7 +103,8 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-> [!IMPORTANT]
-> **Support this work.** Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
->
-> [**Become a sponsor →**](https://github.com/sponsors/JosephOIbrahim)
+## Support this work
+
+Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
+
+<p align="center"><a href="https://github.com/sponsors/JosephOIbrahim"><strong>Become a sponsor →</strong></a></p>
