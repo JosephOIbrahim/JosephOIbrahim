@@ -1,6 +1,6 @@
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
-<p align="center"><em>Building stuff that makes stuff easier.</em></p>
+<p align="center"><em>Building tools that take the friction out of creative work.</em></p>
 
 <p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX</strong></sub></p>
 
