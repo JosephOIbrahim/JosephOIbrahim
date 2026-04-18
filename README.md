@@ -22,6 +22,10 @@
 
 **AI co-pilot for ComfyUI.** 113 tools. Autonomous pipelines with vision-based evaluation and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction — Claude, GPT-4o, Gemini, Ollama. Patent-pending architecture.
 
+<sub><strong>PATENT-PENDING ARCHITECTURE &nbsp;·&nbsp; OPEN SOURCE &nbsp;·&nbsp; FOR VFX ARTISTS</strong></sub>
+
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+
 </td>
 <td valign="top" width="50%">
 
@@ -30,6 +34,8 @@
 Project manager in the shape of a train-station split-flap departure board. One command, browser opens, projects flip into place. Opinionated about what to work on next; notices when you've been at it too long.
 
 <sub><strong>BROWSER-BASED &nbsp;·&nbsp; SPLIT-FLAP UI &nbsp;·&nbsp; OPINIONATED</strong></sub>
+
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Slit-Flap?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Slit-Flap?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
 
 </td>
 </tr>
@@ -47,6 +53,8 @@ Biologically-architected cognitive memory. Rust hot path plus Python orchestrati
 
 <sub><strong>v3.3.1 PRODUCTION &nbsp;·&nbsp; 1,181 TESTS &nbsp;·&nbsp; 5 SPRINTS SHIPPED</strong></sub>
 
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Harlo?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Harlo?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
+
 </td>
 <td valign="top" width="50%">
 
@@ -55,6 +63,8 @@ Biologically-architected cognitive memory. Rust hot path plus Python orchestrati
 AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a Houdini network and let it reach back.
 
 <sub><strong>MCP PROTOCOL &nbsp;·&nbsp; HOUDINI-NATIVE</strong></sub>
+
+![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Synapse?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Synapse?style=flat-square&color=7C3AED&labelColor=0D0D0D&label=UPDATED)
 
 </td>
 </tr>
