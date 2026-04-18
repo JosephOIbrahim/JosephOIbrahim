@@ -1,11 +1,11 @@
-<h1 align="center">Joe Ibrahim</h1>
+<h1 align="center">Joseph Ibrahim</h1>
 
 <p align="center"><em>Creative technologist. Local-first AI for VFX.</em></p>
 
 <p align="center"><sub><strong>THREE PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX &nbsp;·&nbsp; MPC &nbsp;·&nbsp; FRAMESTORE &nbsp;·&nbsp; THE MILL &nbsp;·&nbsp; APPLE &nbsp;·&nbsp; ZOIC</strong></sub></p>
 
 <p align="center">
-<a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://aiconductor.studio">aiconductor.studio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
+<a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
 </p>
 
 ---
