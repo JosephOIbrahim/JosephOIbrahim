@@ -1,28 +1,68 @@
-# Joe Ibrahim
+<h1 align="center">Joe Ibrahim</h1>
 
-Independent researcher and VFX technical director. I build local-first AI infrastructure for creative pipelines. Sixteen years at MPC, Framestore, The Mill, Apple, and Zoic Studios.
+<p align="center"><strong>Independent researcher building local-first AI infrastructure for creative pipelines.</strong></p>
 
-Three patents pending: USD cognitive state, digital context injection, and Cosmos predictive lighting.
+<p align="center">
+<a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://aiconductor.studio">aiconductor.studio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
+</p>
 
-[josephibrahim.com](https://josephibrahim.com) · [aiconductor.studio](https://aiconductor.studio) · [LinkedIn](https://www.linkedin.com/in/josephibrahim/)
+---
 
-### Current work
+Sixteen years in VFX at MPC, Framestore, The Mill, Apple, and Zoic Studios. Three patents pending: USD cognitive state, digital context injection, and Cosmos predictive lighting. Creator of Harlo and Comfy-Cozy.
 
-**[Comfy-Cozy](https://github.com/JosephOIbrahim/Comfy-Cozy).** AI co-pilot for ComfyUI. 113 tools. Autonomous pipelines with auto-retry, vision-based evaluation, and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction (Claude, GPT-4o, Gemini, Ollama). 3,902 tests.
+### ⚡ Current work
 
-**[Harlo](https://github.com/JosephOIbrahim/Harlo).** Biologically-architected cognitive memory. Rust hot path plus Python orchestration, state persisted as real USD composition layers on disk. Local-first; zero-watt idle via OS socket activation. v3.3.1 production, 1,181 tests passing.
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+<h3>🧠 <a href="https://github.com/JosephOIbrahim/Comfy-Cozy">Comfy-Cozy</a></h3>
+<strong>AI co-pilot for ComfyUI</strong>
+<br/><br/>
+<sub>113 tools &nbsp;·&nbsp; 3,902 tests</sub><br/>
+<sub>MCP server · CLI · sidebar</sub><br/>
+<sub>Claude · GPT-4o · Gemini · Ollama</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>🧬 <a href="https://github.com/JosephOIbrahim/Harlo">Harlo</a></h3>
+<strong>Biologically-architected<br/>cognitive memory</strong>
+<br/><br/>
+<sub>v3.3.1 &nbsp;·&nbsp; 1,181 tests</sub><br/>
+<sub>Rust hot path + USD composition</sub><br/>
+<sub>Zero-watt idle · Local-first</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>🔗 <a href="https://github.com/JosephOIbrahim/Synapse">Synapse</a></h3>
+<strong>AI-to-Houdini bridge</strong>
+<br/><br/>
+<sub>Bidirectional scene control</sub><br/>
+<sub>MCP protocol</sub><br/>
+<sub>Houdini-native</sub>
+</td>
+</tr>
+</table>
 
-**[Synapse](https://github.com/JosephOIbrahim/Synapse).** AI-to-Houdini bridge. Bidirectional scene control via MCP.
-
-### Research
+### 🔬 Research
 
 *Persistent State Hypothesis* — parent thesis for the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. [DOI: 10.5281/zenodo.18332346](https://doi.org/10.5281/zenodo.18332346).
 
 *USD Cognitive Substrate* — applying USD composition semantics to cognitive state storage. arXiv preprint.
 
-### Other public repositories
+### 📦 Also public
 
-[comfyui-deterministic-toolkit](https://github.com/JosephOIbrahim/comfyui-deterministic-toolkit) · [CONDUIT](https://github.com/JosephOIbrahim/comfyui-conduit-optimizer) · [VEX Corpus](https://github.com/JosephOIbrahim/vex-corpus) · [VEX RAG Pipeline](https://github.com/JosephOIbrahim/vex-rag-pipeline) · [Houdini Camera Rig System](https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System) · [Unreal Engine Bridge](https://github.com/JosephOIbrahim/UnrealEngine_Bridge) · [ComfyUI 3D Viewport](https://github.com/JosephOIbrahim/comfyui-3D-viewport)
+<table>
+<tr>
+<td valign="top" width="160"><strong>ComfyUI</strong></td>
+<td><a href="https://github.com/JosephOIbrahim/comfyui-deterministic-toolkit">Deterministic Toolkit</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/comfyui-conduit-optimizer">CONDUIT</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/comfyui-3D-viewport">3D Viewport</a></td>
+</tr>
+<tr>
+<td valign="top"><strong>Houdini / VEX</strong></td>
+<td><a href="https://github.com/JosephOIbrahim/vex-corpus">VEX Corpus</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/vex-rag-pipeline">VEX RAG Pipeline</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System">Camera Rig System</a></td>
+</tr>
+<tr>
+<td valign="top"><strong>Bridges</strong></td>
+<td><a href="https://github.com/JosephOIbrahim/UnrealEngine_Bridge">Unreal Engine Bridge</a></td>
+</tr>
+</table>
 
 ---
 
