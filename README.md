@@ -1,6 +1,6 @@
-## On the slate
-
 VFX TD | AI Inventor. Patents pending. Sixteen yrs VFX.
+
+## On the slate
 
 <table>
 <tr>
