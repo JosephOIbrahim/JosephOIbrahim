@@ -1,55 +1,65 @@
 ![Banner](./assets/banner.svg)
 
-**Senior VFX Technical Director** — 16 years across MPC, Framestore, The Mill, Apple, Zoic Studios
+# Joe Ibrahim
 
-Building AI-integrated tools for VFX pipelines. Currently developing **Synapse**, an AI-to-Houdini bridge, and the **Radiant Suite** of procedural pipeline tools.
+**VFX Technical Director · Creative Technologist · AI Inventor**
 
-[![Website](https://img.shields.io/badge/josephibrahim.com-4A5D3A?style=flat-square&logo=safari&logoColor=white)](https://josephibrahim.com)
-[![AI Conductor](https://img.shields.io/badge/aiconductor.studio-A68B6B?style=flat-square&logo=safari&logoColor=white)](https://aiconductor.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B7A8A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephibrahim/)
+Sixteen years in VFX at MPC, Framestore, The Mill, Apple, and Zoic Studios. Now building the tools I wished existed when I was on the floor at 2am — local-first AI infrastructure for creative pipelines.
 
----
+Three patents pending: USD cognitive state, digital context injection, Cosmos predictive lighting.
 
-### What I'm Building
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**Synapse**](https://github.com/JosephOIbrahim/RadiantSuite) | AI-to-Houdini bridge — bidirectional scene control via MCP | Active |
-| [**Engram**](https://github.com/JosephOIbrahim/RadiantSuite) | Project memory system for Houdini — context that persists across sessions | Active |
-| [**Deterministic Toolkit**](https://github.com/JosephOIbrahim/comfyui-deterministic-toolkit) | Batch-invariant inference for ComfyUI — same seed = identical output, guaranteed | Active |
-| [**CONDUIT**](https://github.com/JosephOIbrahim/comfyui-conduit-optimizer) | Non-linear inference optimizer for ComfyUI | Active |
+[josephibrahim.com](https://josephibrahim.com) &nbsp;·&nbsp; [aiconductor.studio](https://aiconductor.studio) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/josephibrahim/)
 
 ---
 
-### Research
+## Currently shipping
 
-| Paper | Topic |
-|-------|-------|
-| [Persistent State Hypothesis](https://github.com/JosephOIbrahim/persistent-state-hypothesis) | Challenging energy-intelligence equivalence through composable knowledge architectures |
+### [Comfy-Cozy](https://github.com/JosephOIbrahim/Comfy-Cozy)
+
+AI co-pilot for ComfyUI — the kind VFX artists actually keep open. 113 tools. Autonomous pipelines with auto-retry, vision-based evaluation, and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar.
+
+`3,902 tests` &nbsp;·&nbsp; `four-provider LLM abstraction (Claude · GPT-4o · Gemini · Ollama)` &nbsp;·&nbsp; `patent-pending architecture`
+
+### [Harlo](https://github.com/JosephOIbrahim/Harlo)
+
+Biologically-architected cognitive memory. Rust hot path plus Python orchestration, state persisted as real USD composition layers on disk. Local-first. Zero-watt idle via OS socket activation.
+
+`v3.3.1 production` &nbsp;·&nbsp; `1,181 tests passing` &nbsp;·&nbsp; `5 sprints shipped` &nbsp;·&nbsp; `real .usda on disk`
+
+### [Synapse](https://github.com/JosephOIbrahim/Synapse)
+
+AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a Houdini network and let it reach back.
 
 ---
 
-### Tech Stack
+## Also public
 
-![Python](https://img.shields.io/badge/-Python-4A5D3A?style=flat-square&logo=python&logoColor=white)
-![Houdini](https://img.shields.io/badge/-Houdini-8B5E3C?style=flat-square&logo=houdini&logoColor=white)
-![USD](https://img.shields.io/badge/-OpenUSD-5B7A8A?style=flat-square&logoColor=white)
-![VEX](https://img.shields.io/badge/-VEX-7A6B5A?style=flat-square&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-A0522D?style=flat-square&logo=pytorch&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/-ComfyUI-3D3D3D?style=flat-square&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-6B7F5E?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-A68B6B?style=flat-square&logo=react&logoColor=white)
+- [**Comfyui Deterministic Toolkit**](https://github.com/JosephOIbrahim/comfyui-deterministic-toolkit) — batch-invariant inference. Same seed = identical output, guaranteed.
+- [**CONDUIT**](https://github.com/JosephOIbrahim/comfyui-conduit-optimizer) — non-linear inference optimizer for ComfyUI.
+- [**VEX Corpus**](https://github.com/JosephOIbrahim/vex-corpus) + [**VEX RAG Pipeline**](https://github.com/JosephOIbrahim/vex-rag-pipeline) — Houdini VEX knowledge base, tuned for LLM retrieval.
+- [**Houdini Camera Rig System**](https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System) &nbsp;·&nbsp; [**Unreal Engine Bridge**](https://github.com/JosephOIbrahim/UnrealEngine_Bridge) &nbsp;·&nbsp; [**ComfyUI 3D Viewport**](https://github.com/JosephOIbrahim/comfyui-3D-viewport)
 
 ---
 
-### GitHub Activity
+## Research
 
-<a href="https://github.com/JosephOIbrahim">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephOIbrahim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/JosephOIbrahim">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOIbrahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</a>
+**Persistent State Hypothesis** — parent thesis for the patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. *Zenodo DOI.*
+
+**USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. *arXiv preprint.*
+
+---
+
+> [!NOTE]
+> **Sponsoring this work keeps it independent and local-first.**
+>
+> Everything I build runs on your machine, under your control, with no data collection. That stance costs more to maintain than cloud-shipped software. Sponsorship funds:
+>
+> - Compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests)
+> - Hardware testing time on real VFX-scale workloads
+> - The unsexy 90%: bug reports, documentation, user support
+> - Research hours for the next paper and the next patent
+>
+> [**Become a sponsor →**](https://github.com/sponsors/JosephOIbrahim)
 
 ---
 
