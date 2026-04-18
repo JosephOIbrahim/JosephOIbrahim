@@ -62,8 +62,6 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 **USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. arXiv preprint.
 
-<sub><strong>PATENTS PENDING:</strong></sub> &nbsp; USD cognitive state &nbsp;·&nbsp; digital context injection &nbsp;·&nbsp; Cosmos predictive lighting
-
 ---
 
 ## Back catalog
