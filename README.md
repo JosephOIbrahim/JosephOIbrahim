@@ -2,6 +2,8 @@
 
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
+<p align="center"><em>Building the tools I wished existed on the floor at 2am.</em></p>
+
 <p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX</strong></sub></p>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ---
 
-## Shipping now
+## On the slate
 
 <table>
 <tr>
@@ -58,7 +60,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-## Research
+## Working notes
 
 **[Persistent State Hypothesis](https://doi.org/10.5281/zenodo.18332346)** — parent thesis behind the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. DOI 10.5281/zenodo.18332346.
 
@@ -68,7 +70,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-## Also public
+## Back catalog
 
 <table>
 <tr>
