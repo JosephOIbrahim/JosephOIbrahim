@@ -85,7 +85,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-<p align="center"><em>VFX is the craft. AI is the multiplier. USD is the bridge.</em></p>
+<p align="center"><em></em></p>
 
 ---
 
