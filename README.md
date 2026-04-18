@@ -1,5 +1,3 @@
-<h1 align="center">Joseph Ibrahim</h1>
-
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
 <p align="center"><em>Builiding stuff that makes stuff easier.</em></p>
