@@ -1,15 +1,3 @@
-<p align="center">
-  <img alt="VFX TD | AI Inventor." src="./assets/tagline.svg">
-</p>
-
-<p align="center"><em>Building tools that take the friction out of creative work.</em></p>
-
-<p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX</strong></sub></p>
-
-<p align="center">
-<a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
-</p>
-
 ## On the slate
 
 <table>
