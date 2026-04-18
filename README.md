@@ -1,12 +1,8 @@
-<p align="center">
-  <img alt="Joseph Ibrahim — VFX TD and AI Inventor. Patents pending. Sixteen years in VFX." src="./assets/header.svg" width="100%">
-</p>
-
 <h1 align="center">Joseph Ibrahim</h1>
 
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
 
-<p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX &nbsp;·&nbsp; </strong></sub></p>
+<p align="center"><sub><strong>PATENTS PENDING &nbsp;·&nbsp; SIXTEEN YEARS IN VFX</strong></sub></p>
 
 <p align="center">
 <a href="https://josephibrahim.com">josephibrahim.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josephibrahim/">LinkedIn</a>
