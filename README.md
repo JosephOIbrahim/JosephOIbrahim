@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Joseph Ibrahim — VFX TD and AI Inventor. Patents pending. Sixteen years in VFX." src="./assets/header.svg" width="100%">
+</p>
+
 <h1 align="center">Joseph Ibrahim</h1>
 
 <p align="center"><em>VFX TD | AI Inventor.</em></p>
@@ -91,8 +95,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ---
 
-## Support this work
-
-Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
-
-<p align="center"><a href="https://github.com/sponsors/JosephOIbrahim"><strong>Become a sponsor →</strong></a></p>
+> [!IMPORTANT]
+> **Support this work.** Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
+>
+> [**Become a sponsor →**](https://github.com/sponsors/JosephOIbrahim)
