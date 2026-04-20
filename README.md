@@ -1,25 +1,25 @@
+# Joe Ibrahim
+
+Creative technologist. 16 years VFX, now at the intersection with AI. Three patents pending.
+
+---
+
+## Featured
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### [Comfy-Cozy](https://github.com/JosephOIbrahim/Comfy-Cozy)
 
-**AI co-pilot for ComfyUI.** 113 tools. Autonomous pipelines with vision-based evaluation and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction — Claude, GPT-4o, Gemini, Ollama. Patent-pending architecture.
-
-<sub><strong>PATENT-PENDING ARCHITECTURE &nbsp;·&nbsp; OPEN SOURCE &nbsp;·&nbsp; FOR VFX ARTISTS</strong></sub>
-
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
+AI co-pilot for ComfyUI. 113 tools. Autonomous pipelines with vision-based evaluation and experience learning. Ships as MCP server, CLI, or native ComfyUI sidebar. Four-provider LLM abstraction — Claude, GPT-4o, Gemini, Ollama. Patent-pending.
 
 </td>
 <td valign="top" width="50%">
 
-### [Slit-Flap](https://github.com/JosephOIbrahim/Slit-Flap)
+### [Synapse](https://github.com/JosephOIbrahim/Synapse)
 
-Project manager in the shape of a train-station split-flap departure board. One command, browser opens, projects flip into place. Opinionated about what to work on next; notices when you've been at it too long.
-
-<sub><strong>BROWSER-BASED &nbsp;·&nbsp; SPLIT-FLAP UI &nbsp;·&nbsp; OPINIONATED</strong></sub>
-
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Slit-Flap?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Slit-Flap?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
+AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a Houdini network and let it reach back.
 
 </td>
 </tr>
@@ -35,20 +35,12 @@ Project manager in the shape of a train-station split-flap departure board. One 
 
 Biologically-architected cognitive memory. Rust hot path plus Python orchestration, state persisted as real USD composition layers on disk. Local-first; zero-watt idle via OS socket activation.
 
-<sub><strong>v3.3.1 PRODUCTION &nbsp;·&nbsp; 1,181 TESTS &nbsp;·&nbsp; 5 SPRINTS SHIPPED</strong></sub>
-
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Harlo?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Harlo?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
-
 </td>
 <td valign="top" width="50%">
 
-### [Synapse](https://github.com/JosephOIbrahim/Synapse)
+### [Slit-Flap](https://github.com/JosephOIbrahim/Slit-Flap)
 
-AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a Houdini network and let it reach back.
-
-<sub><strong>MCP PROTOCOL &nbsp;·&nbsp; HOUDINI-NATIVE</strong></sub>
-
-![Stack](https://img.shields.io/github/languages/top/JosephOIbrahim/Synapse?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=STACK) ![Updated](https://img.shields.io/github/last-commit/JosephOIbrahim/Synapse?style=flat-square&color=4A5D3A&labelColor=1A1A1A&label=UPDATED)
+Project manager in the shape of a train-station split-flap departure board. One command, browser opens, projects flip into place. Opinionated about what to work on next; notices when you've been at it too long.
 
 </td>
 </tr>
@@ -58,7 +50,7 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ## Working notes
 
-**[Persistent State Hypothesis](https://doi.org/10.5281/zenodo.18332346)** — parent thesis behind the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures. DOI 10.5281/zenodo.18332346.
+**[Persistent State Hypothesis](https://doi.org/10.5281/zenodo.18332346)** — parent thesis behind the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures.
 
 **USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. arXiv preprint.
 
@@ -68,15 +60,15 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 <table>
 <tr>
-<td valign="top" width="160"><sub><strong>COMFYUI</strong></sub></td>
+<td valign="top" width="160"><sub><strong>ComfyUI</strong></sub></td>
 <td><a href="https://github.com/JosephOIbrahim/comfyui-deterministic-toolkit">Deterministic Toolkit</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/comfyui-conduit-optimizer">CONDUIT</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/comfyui-3D-viewport">3D Viewport</a></td>
 </tr>
 <tr>
-<td valign="top"><sub><strong>HOUDINI &nbsp;·&nbsp; VEX</strong></sub></td>
+<td valign="top"><sub><strong>Houdini &nbsp;·&nbsp; VEX</strong></sub></td>
 <td><a href="https://github.com/JosephOIbrahim/vex-corpus">VEX Corpus</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/vex-rag-pipeline">VEX RAG Pipeline</a> &nbsp;·&nbsp; <a href="https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System">Camera Rig System</a></td>
 </tr>
 <tr>
-<td valign="top"><sub><strong>BRIDGES</strong></sub></td>
+<td valign="top"><sub><strong>Bridges</strong></sub></td>
 <td><a href="https://github.com/JosephOIbrahim/UnrealEngine_Bridge">Unreal Engine Bridge</a></td>
 </tr>
 </table>
@@ -85,6 +77,6 @@ AI-to-Houdini bridge. Bidirectional scene control via MCP. Put Claude inside a H
 
 ## Support this work
 
-Everything here runs on your machine, under your control, with no data collection — a stance that costs more to maintain than cloud-shipped software. Sponsorship funds compute for CI across Harlo (1,181 tests) and Comfy-Cozy (3,902 tests), hardware testing on real VFX-scale workloads, maintenance time (the unsexy 90%), and research hours for the next paper.
+Everything here runs on your machine, under your control, with no data collection. Sponsorship covers CI, hardware testing, and research time.
 
-<p align="center"><a href="https://github.com/sponsors/JosephOIbrahim"><strong>Become a sponsor →</strong></a></p>
+[Become a sponsor →](https://github.com/sponsors/JosephOIbrahim)
