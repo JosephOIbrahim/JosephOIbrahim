@@ -1,10 +1,3 @@
-# Joseph Ibrahim
-
-VFX TD | AI Builder 
-----------------------
-Sixteen years in VFX. 
-
----
 
 ## Featured
 
