@@ -1,4 +1,4 @@
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=JosephOIbrahim&bg_color=EFE7D3&color=3D3529&line=3D3529&point=3D3529&area=true&area_color=3D3529&title_color=3D3529&hide_border=true&custom_title=Contributions)
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=JosephOIbrahim&bg_color=3D3529&color=EFE7D3&line=EFE7D3&point=EFE7D3&area=true&area_color=EFE7D3&title_color=EFE7D3&hide_border=true&custom_title=Contributions)
 
 ## Working notes
 
