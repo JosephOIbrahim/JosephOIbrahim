@@ -1,6 +1,8 @@
-# Joe Ibrahim
+# Joseph Ibrahim
 
-Creative technologist. 16 years VFX, now at the intersection with AI. Three patents pending.
+VFX TD | AI Builder 
+----------------------
+Sixteen years in VFX. 
 
 ---
 
