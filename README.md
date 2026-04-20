@@ -2,9 +2,7 @@
 
 ## Working notes
 
-**[Persistent State Hypothesis](https://doi.org/10.5281/zenodo.18332346)** — parent thesis behind the three patents. Challenges the energy-equals-intelligence assumption through composable knowledge architectures.
-
-**USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. arXiv preprint.
+**USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. arXiv preprint. Patents Pending. 
 
 ---
 
