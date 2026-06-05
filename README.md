@@ -1,5 +1,5 @@
 
-**USD Cognitive Substrate** — applying USD composition semantics to cognitive state storage. arXiv preprint. Patents Pending. 
+Hey! Welcome to Joe's Github Page. This is where I'm posting stuff. Enjoy!
 
 ---
 
