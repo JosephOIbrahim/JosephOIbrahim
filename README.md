@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Joseph Ibrahim — Senior Visual Effects TD · AI Pipeline Architect" width="100%">
-</p>
-
 Sixteen years in visual effects — MPC, Framestore, The Mill, Apple, Disney. Now building AI tools that take the friction out of creative work.
 
 Everything here runs on your machine, under your control, with no data collection.
