@@ -1,6 +1,6 @@
-Sixteen years in visual effects — MPC, Framestore, The Mill, Apple, Disney. Now building AI tools that take the friction out of creative work.
+Sixteen years in VFX. Now building AI tools that take the friction out of creative work.
 
-Everything here runs on your machine, under your control, with no data collection.
+Everything here runs on your machine, with no data collection.
 
 <br>
 
